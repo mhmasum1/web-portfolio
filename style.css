@@ -5,6 +5,10 @@
         "wdth" 100;
 }
 
+.secondary-bg {
+    background-color: #FFF8F3;
+
+}
 
 /* Header */
 
@@ -84,4 +88,37 @@ nav ul {
     font-weight: 800px;
     font-size: 85px;
     color: #181818;
+}
+
+/* Main */
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* About */
+.about-title {
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+
+.about-description {
+    color: #757575;
+}
+
+.about-items {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item-title {
+    font-weight: bold;
+}
+
+.about {
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
 }

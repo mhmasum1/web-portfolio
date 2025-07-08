@@ -38,6 +38,10 @@ nav {
     border: none;
 }
 
+.text-center {
+    text-align: center;
+}
+
 nav li {
     list-style-type: none;
     margin-right: 50px;
@@ -121,4 +125,29 @@ main {
     padding: 130px 150px;
     text-align: center;
     margin-top: 130px;
+    margin-bottom: 130px;
+}
+
+.ex-title {
+    color: #181818;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.ex-description {
+    color: #757575;
+    margin-bottom: 50px;
+}
+
+.skills-cart {
+    display: flex;
+    gap: 20px;
+}
+
+.skill {
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
+
+    /* color: #FFFFFF; */
 }

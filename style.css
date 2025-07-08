@@ -27,6 +27,7 @@ nav {
 
 .dark-2 {
     color: #474747;
+    font-weight: bold;
 }
 
 .btn-primary {
@@ -150,4 +151,39 @@ main {
     box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
 
     /* color: #FFFFFF; */
+}
+
+.skill-description {
+    color: #757575;
+}
+
+.educational {
+    display: flex;
+    gap: 25px;
+    margin-bottom: 80px;
+}
+
+.edl {
+    margin-top: 100px;
+    color: #181818;
+    font-weight: bold;
+    margin-bottom: 70px;
+}
+
+.resume-column-title {
+    font-weight: bold;
+    font-size: 30px;
+    color: #474747;
+}
+
+.experience-title {
+    font-weight: bold;
+    font-size: 25px;
+    color: #474747;
+}
+
+.experience-sub-title {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
 }

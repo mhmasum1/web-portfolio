@@ -80,6 +80,8 @@ nav ul {
 
 .b-img {
     max-width: 585px;
+    padding-top: 150px;
+    padding-right: 70px;
 
 }
 
@@ -243,4 +245,17 @@ footer {
 
 form {
     gap: 24px;
+}
+
+.dwn-cv {
+    margin-right: 30px;
+}
+
+.btn-primary-con {
+    background-color: white;
+    color: #FD6E0A;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 16px 35px;
+    border: 1px solid #FD6E0A;
 }
